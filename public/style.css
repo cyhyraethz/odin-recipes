@@ -1,0 +1,34 @@
+::-webkit-scrollbar {
+  background-color: #202324;
+  color: #aba499;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: #181a1b;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #454a4d;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  color: #cfcfcf;
+  font-size: 18px;
+  background-color: #191919;
+}
+
+ul li {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ol li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
